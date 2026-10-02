@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "KEDRYN. Food for your everyday.",
+  "short_name": "KEDRYN",
+  "description": "Explore the menu, plan meals and prepare a family basket.",
+  "start_url": "/?source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcf8f2",
+  "theme_color": "#542335",
+  "icons": [
+    {
+      "src": "/kedryn-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedryn-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

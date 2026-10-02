@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="540" viewBox="0 0 720 540" role="img" aria-label="Illustration of a plate, dish photo coming soon">
+<rect width="720" height="540" fill="#F5EADD"/>
+<ellipse cx="360" cy="326" rx="197" ry="105" fill="#7D2538" opacity=".06"/>
+<ellipse cx="360" cy="285" rx="182" ry="114" fill="#FFF8EF" stroke="#A76555" stroke-width="3"/>
+<ellipse cx="360" cy="278" rx="145" ry="84" fill="none" stroke="#A76555" stroke-width="2" opacity=".4"/>
+<path d="M248 278c20 66 196 66 224 0" fill="none" stroke="#702638" stroke-width="5" stroke-linecap="round"/>
+<path d="M283 271c20-26 37-11 53-24 13-11 26-35 40-21 15 16 18 22 42 27 14 3 21 11 23 18" fill="none" stroke="#B77961" stroke-width="5" stroke-linecap="round"/>
+<path d="M306 154c-18-27 16-27 0-51m54 42c-18-27 16-27 0-51m54 60c-18-27 16-27 0-51" fill="none" stroke="#A76555" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+<text x="360" y="438" text-anchor="middle" font-family="Georgia,serif" font-size="27" fill="#702638">Made fresh, for your day.</text>
+<text x="360" y="473" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#8D5A60">DISH PHOTO COMING SOON</text>
+</svg>
